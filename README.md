@@ -1,4 +1,4 @@
-![Mum's In Tech](./mit-logo.png)
+<img src="./mit-logo.png" width="500px">
 
 # Mum's in Tech Front End Bootcamp HTML & CSS Practice Files
 
